@@ -6,8 +6,7 @@ Videojuego arcade 2D de carreras estilo arrancones (*Drag Racing*) con temática
 Desarrollar un prototipo funcional (*Vertical Slice*) aplicando arquitectura desacoplada orientada a eventos y gestión de datos mediante `ScriptableObjects`, garantizando un rendimiento estable de 60 FPS en PC y dispositivos móviles.
 
 ## 👥 Integrantes del Equipo
-* **José Ángel Romo Gutiérrez** — Programación de sistemas, arquitectura de software y físicas 2D.
-* **ElPoolo** — Diseño de escenas, integración de assets y desarrollo de gameplay.
+* **José Ángel Romo Gutiérrez** — Programación de sistemas, arquitectura de software, físicas 2D, Diseño de escenas, integración de assets y desarrollo de gameplay.
 
 *Universidad de Guadalajara — Centro Universitario de los Lagos (CULagos)*  
 *Asignatura: Ingeniería de Software*
